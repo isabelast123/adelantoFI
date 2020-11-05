@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Parte#1</title>
+	<link rel="stylesheet" type="text/css" href="esti.css">
+	<script src="funci.js" languaje="javascript" type="text/javascript"></script>
+</head>
+<body style= background-image:url(tabla.jpg)>
+	<div class="animacion"><center><br><br><br><br><br><br>ANIMACION DEL CUENTO</center></div>
+	<div class="texto"><center>en esta parte aparecera el texto que sera narrado con el audio</center>
+		<audio src="ola.mp3" id="player" autoplay="true" loop="true"></audio>
+		<div class="b_narra">
+    		<button onclick="document.getElementById('player').play()" class="play">Play</button>
+    		<button onclick="document.getElementById('player').pause()" class="pausa">Pausa</button>
+    		<button onclick="document.getElementById('player').load()" class="stop">Stop</button>
+    		<button onclick="document.getElementById('player').volume += .1" class="subir">+ volumen</button>
+    		<button onclick="document.getElementById('player').volume -= .1" class="bajar">- volumen</button>
+		</div> 
+	</div>
+	<div class="pagina"><img src=""></div>
+	<div><a class="volver" href="index.html"><center>Volver al inicio</center></a></div>
+	<div class="next"> <a href="pagina2.html"><img src="flecha.jpg"></a> </div>
+</body>
+</html> 

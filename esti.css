@@ -1,0 +1,161 @@
+.hola1{
+position: absolute;
+background: url(vidi.gif);
+background-repeat: no-repeat;
+top: 12%;
+left: 23%;
+height: 570px;
+width: 920px;
+border-image-slice: black;
+}
+.boton1{ 
+position: absolute;
+top: 75%;
+left:300px;
+height: 45px;
+width: 150px;
+background-color: #FF9978 ;
+font-family: "Candara";
+font-size: 30px;
+}
+.hola11{
+position: absolute;
+background: url(olaa.gif);
+top: 12%;
+left: 28%;
+height: 430px;
+width: 580px;
+border-image-slice: black;
+}
+
+.animacion{
+position: absolute;
+top: 22%;
+left: 15%;
+height: 490px;
+width: 950px;
+background-color:#9B9B9B ;
+font-family: "Candara";
+font-size: 30px;
+}
+.texto{
+position: absolute;
+top: 5%;
+left: 15%;
+height: 100px;
+width: 950px;
+background-color: white;
+font-family: "Candara";
+font-size: 20px;
+border-radius: 5px;
+border: 2px black;
+}
+.volver{
+position: absolute;
+top: 89%;
+left: 12%;
+width: 80px;
+height: 50px;
+border: 1px;
+padding: 5px;
+background-color: #72E7C1 ;
+color: black;
+text-decoration: none;
+font-family: "Candara";
+border-radius: 15px;
+}
+.next{
+position: absolute;
+top: 89%;
+left: 82%;
+background: url();
+background-color: #D5FC7B;
+border-radius: 15px;
+}
+.b_narra{
+position: absolute;
+top: 68%;
+left: 58%;
+}
+.play{
+text-decoration: none;
+padding: 4px;
+font-size: 14px;
+font-color: white;
+background-color: #9AE1B7 ;
+border-radius: 6px;
+border: 2px solid black;
+}
+.pausa{
+text-decoration: none;
+padding: 4px;
+font-size: 14px;
+font-color: white;
+background-color: #9AE1B7 ;
+border-radius: 6px;
+border: 2px solid black
+}
+.stop{
+text-decoration: none;
+padding: 4px;
+font-size: 14px;
+font-color: white;
+background-color: #9AE1B7 ;
+border-radius: 6px;
+border: 2px solid black
+}
+.subir{
+text-decoration: none;
+padding: 4px;
+font-size: 14px;
+font-color: white;
+background-color: #9AE1B7 ;
+border-radius: 6px;
+border: 2px solid black
+}
+.bajar{
+text-decoration: none;
+padding: 4px;
+font-size: 14px;
+font-color: white;
+background-color: #9AE1B7 ;
+border-radius: 6px;
+border: 2px solid black
+}
+.cfondo{
+position: absolute;
+font-weight: 800;
+top: 2%;
+left: 80%;
+height: 50px;
+width: 250px;
+background-color: #D5FC7B;
+font-family: "Courier New";
+font-size: 20px;
+border-radius: 15px;
+}
+.subirf{
+text-decoration: none;
+padding: 2px;
+font-size: 14px;
+color: #ffffff;
+background-color: #1883ba;
+border-radius: 6px;
+border: 2px solid #0016b0;
+}
+.bajarf{
+text-decoration: none;
+padding: 2px;
+font-size: 14px;
+color: #ffffff;
+background-color: #1883ba;
+border-radius: 6px;
+border: 2px solid #0016b0;
+}
+.pagina{
+position: absolute;
+width: 30px;
+height: 35px;
+top: 90%;
+left: 49%;
+}
